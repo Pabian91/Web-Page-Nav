@@ -1,2 +1,2 @@
 # Web-Page-Nav
-Responsive navigation page.
+Responsive navigation page based on yt tutorial.
